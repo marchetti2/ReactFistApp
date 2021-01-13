@@ -46,5 +46,4 @@ $ yarn start
 **Well done, project is started!**
 
 ##  License
-
 This is a [RocketSeat](https://rocketseat.com.br) GoStack course project(old journey).
