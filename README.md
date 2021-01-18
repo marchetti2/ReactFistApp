@@ -26,9 +26,9 @@ The application fetches a user's repository and shows the last five pull request
 
 <h4>Requirements</h4>
 
-- [Git](https://classic.yarnpkg.com/) 
-- [Node.js](https://classic.yarnpkg.com/) 
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com) 
+- [Node.js](https://nodejs.org/en/) 
+- [Yarn](https://classic.yarnpkg.com/)
 
 **Clone the project and access the folder**
 ```bash
@@ -46,4 +46,5 @@ $ yarn start
 **Well done, project is started!**
 
 <h2 id="license">License</h2>
-This is a [RocketSeat](https://rocketseat.com.br) GoStack course project(old journey).
+
+This is a [RocketSeat](http://rocketseat.com.br) GoStack course project(old journey).
