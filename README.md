@@ -1,11 +1,13 @@
-<h2>ReactFirstApp</h2>
+<h2>About</h2>
 
 This is module 05 of the GoStack RocketSeat course (old journey). 
 The application fetches a user's repository and shows the last five pull requests. For the syntax of the code in this project, statefull components and life cycle (componentDidMount, etc.) were used.
 
 <p align="center">
- <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
+ <a href="#screens">Screens</a> | <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
 </p>
+
+<h2 id="screens">Screens</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3r7BJ8Jo1xLiMf0XGT/giphy.gif">
