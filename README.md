@@ -34,7 +34,7 @@ The application fetches a user's repository and shows the last five pull request
 
 **Clone the project and access the folder**
 ```bash
-$ git clone https://github.com/marchetti2/ReactFirstApp.git && cd ReactFirstApp
+$ git clone https://github.com/marchetti2/github-repository-list-reactjs.git && cd github-repository-list-reactjs
 ```
 
 **Install the dependencies**
